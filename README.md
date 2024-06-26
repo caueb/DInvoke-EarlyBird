@@ -33,3 +33,4 @@ Currently the PPID spoofing is retrieving a handle to the process specified with
 - https://github.com/TheWover/DInvoke
 - https://github.com/rasta-mouse/DInvoke
 - https://offensivedefence.co.uk/posts/ppidspoof-blockdlls-dinvoke/
+- https://github.com/Octoberfest7/OSEP-Tools
